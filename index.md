@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Ergon Studio
-landing-title: 'Ergon'
+landing-title: 'ἔργον'
 description: null
 image: null
 author: null
