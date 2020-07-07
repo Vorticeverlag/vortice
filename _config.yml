@@ -1,6 +1,6 @@
 # site settings
 title: ἔργον
-subtitle: Studio
+subtitle: Editorial
 email: ergonstudio@pm.me
 description: Editorial Design and Web Development.
 baseurl: "/ergon" # the subpath of your site, e.g. /blog
