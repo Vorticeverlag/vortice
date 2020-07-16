@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publishing
+title: Editorial Design
 nav-menu: true
 ---
 
@@ -11,7 +11,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Publishing</h1>
+			<h1>Editorial Design</h1>
 		</header>
 
 <!-- Content -->
