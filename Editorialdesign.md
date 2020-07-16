@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: Editorial Design
+description: Book and Cover Design
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
