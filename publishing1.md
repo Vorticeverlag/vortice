@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Editorial Design
-description: Book and Cover Design
+title: Publishing
+description: Physical and Digital Media
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
