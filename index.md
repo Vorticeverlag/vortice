@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Ergon Edition
+title: Ergon Editions
 landing-title: 'Ergon'
 description: null
 image: null
