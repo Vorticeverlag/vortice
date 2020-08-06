@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Literary Edition
+title: Physical Publishing
 nav-menu: true
 ---
 
