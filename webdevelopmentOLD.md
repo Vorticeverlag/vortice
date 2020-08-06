@@ -1,7 +1,7 @@
 ---
 title: Web Development
 layout: landing
-description: 'Webpage Design and Development<br />Online Publishing'
+description: 'Project Development'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
