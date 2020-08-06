@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Physical
+title: Physical Publishing
 nav-menu: true
 ---
 
