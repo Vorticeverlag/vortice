@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Online Publishing
-description: Internet Publish
+description: 
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
