@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lenaupraxis
-description: Lorem etiam nullam
+description: CranioSacral Therapy
 image: assets/images/lenaupraxis.jpg
 ---
 
