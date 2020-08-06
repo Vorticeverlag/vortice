@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Publishing
-description: Physical and Digital Media
+title: Online Publishing
+description: Internet Publishing
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
