@@ -1,7 +1,7 @@
 ---
 title: Web Development
 layout: landing
-description: 'Project and Application Development'
+description: 'Intenet Application Development'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
