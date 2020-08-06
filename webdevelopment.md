@@ -1,7 +1,7 @@
 ---
 title: Web Development
 layout: landing
-description: 'Intenet Application Development'
+description: 'Full-Stack Development'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
