@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Online Publishing
+title: Publishing
 description: 
 image: assets/images/pic11.jpg
 nav-menu: true
