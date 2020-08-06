@@ -1,8 +1,8 @@
 # site settings
 title: Ergon
-subtitle: 
+subtitle: Publisher
 email: ergonstudio@pm.me
-description: Publisher
+description: Edition & Publication
 baseurl: "/ergon" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
