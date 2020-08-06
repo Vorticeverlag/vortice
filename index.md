@@ -3,7 +3,7 @@ layout: home
 title: Ergon Studio
 landing-title: 'Ergon'
 description: null
-image: null
+image: ergonlogo.jpg
 author: null
 show_tile: false
 ---
