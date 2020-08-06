@@ -2,16 +2,16 @@
 title: Ergon
 subtitle: Editions
 email: ergonstudio@pm.me
-description: Literary Editon and Web Development
+description: Literary Edition and Web Development
 baseurl: "/ergon" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 
-city: Lisbon (Portugal)
+city: Lisbon 
 state: 
 zip_code:
-country: Berlin (Germany)
-phone: 
+country: Berlin 
+phone: +49 157 3326 2769
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
