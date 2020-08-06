@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Editorial Design
+title: Book Design
 nav-menu: true
 ---
 
