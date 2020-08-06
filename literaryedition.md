@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Editorial Services
+title: Literary Edition
 nav-menu: true
 ---
 
