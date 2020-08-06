@@ -1,8 +1,8 @@
 # site settings
 title: Ergon
-subtitle: 
+subtitle: Editions
 email: ergonstudio@pm.me
-description: Editorial Design and Web Development.
+description: Literary Editon and Web Development
 baseurl: "/ergon" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
