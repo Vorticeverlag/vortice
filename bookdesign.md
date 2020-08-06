@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Book Design
+title: Physical
 nav-menu: true
 ---
 
