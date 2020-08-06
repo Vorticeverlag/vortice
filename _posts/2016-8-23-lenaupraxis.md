@@ -2,7 +2,7 @@
 layout: post
 title: Lenaupraxis
 description: Lorem etiam nullam
-image: assets/images/Lenaupraxis.jpg
+image: assets/images/lenaupraxis.jpg
 ---
 
 ![test image]({{ site.url | absolute_path}}/assets/images/pic03.jpg)
