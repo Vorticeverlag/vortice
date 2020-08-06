@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Editorial Design
+title: Editorial Services
 nav-menu: true
 ---
 
