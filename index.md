@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Vortice Publishing
+title: Vortice
 landing-title: 'Vortice'
 description: null
 image: null
