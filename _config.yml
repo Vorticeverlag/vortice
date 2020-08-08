@@ -3,7 +3,7 @@ title: Vortice
 subtitle: 
 email: vorticepublishing@pm.me
 description: Publishing
-baseurl: "/Vortice" # the subpath of your site, e.g. /blog
+baseurl: "/vortice" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 
