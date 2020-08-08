@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Ergon Editions
-landing-title: 'Ergon'
+title: Vortice Publishing
+landing-title: 'Vortice'
 description: null
 image: null
 author: null
