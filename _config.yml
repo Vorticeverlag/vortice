@@ -1,7 +1,7 @@
 # site settings
-title: Ergon
-subtitle: Publisher
-email: ergonstudio@pm.me
+title: Vortice
+subtitle: Publishing
+email: vorticepublishing@pm.me
 description: Edition & Publication
 baseurl: "/ergon" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
