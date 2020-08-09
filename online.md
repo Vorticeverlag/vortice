@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Digital Publishing
+title: Online
 description:
-image: assets/images/pic11.jpg
+image: 
 nav-menu: true
 ---
 
