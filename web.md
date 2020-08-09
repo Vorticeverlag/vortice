@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Web Development
+title: Web
 nav-menu: true
 ---
 
@@ -11,7 +11,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Web Development</h1>
+			<h1>Web/h1>
 		</header>
 
 <!-- Content -->
