@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Vortice'
+landing-title: 'Vórtice'
 description: null
 image: null
 author: null
