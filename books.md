@@ -11,7 +11,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Books</h1>
+			<h1>Book Publication</h1>
 		</header>
 
 <!-- Content -->
