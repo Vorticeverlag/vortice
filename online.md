@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Online
+title: Online Publishing
 description:
 image: 
 nav-menu: true
