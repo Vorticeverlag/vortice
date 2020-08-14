@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Web
+title: Web Development
 nav-menu: true
 ---
 
