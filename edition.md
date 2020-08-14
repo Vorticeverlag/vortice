@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Books
+title: Edition
 nav-menu: true
 ---
 
@@ -11,7 +11,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Book Publishing</h1>
+			<h1>Edition</h1>
 		</header>
 
 <!-- Content -->
