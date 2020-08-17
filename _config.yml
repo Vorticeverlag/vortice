@@ -7,10 +7,10 @@ baseurl: "/vortice" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 
-city: Lisbon 
+city: Lisbon (PT) 
 state: 
 zip_code:
-country: Berlin 
+country: Berlin (DE)
 phone: +49 157 3326 2769
 
 # homepage tiles
