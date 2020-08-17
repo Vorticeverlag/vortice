@@ -1,7 +1,7 @@
 # site settings
 title: Vortice
 subtitle: 
-email: vorticepublishers@pm.me
+email: vorticepublishers[at]pm.me
 description: Publishers
 baseurl: "/vortice" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
