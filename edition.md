@@ -24,8 +24,7 @@ nav-menu: true
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Content Edition</h3>
-		<p>Literary edition of texts. Manuscript assesment and critique. </p>
-	</div>
+		<p>Content edition of texts. Structuring, Narrative layout, Stlylistic consistency. Manuscript assesment, critique and advise. Editorial agency.
 
 
 <hr class="major" />
