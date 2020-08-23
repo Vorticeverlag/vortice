@@ -7,7 +7,7 @@ baseurl: #"/vortice" # the subpath of your site, e.g. /blog
 url: https://vorticepublishing.com
 author: Vórtice
 street_address: 
-city: Lisbon (PT) 
+city: Lisboa (PT) 
 state: 
 zip_code:
 country: Berlin (DE)
