@@ -20,7 +20,7 @@ nav-menu: true
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Editorial Design</h3>
-		<p>Overal Book design for physical and electronic media: Formating, Book design, Cover design, Page design, typeseting, illustrations and graphic edition. </p>
+		<p>Book design for physical and electronic media: Object design, choice of materials and production techniques, designed oriented to medium of publication, Formating, Book design, Cover design, Page design, Typeseting, illustrations and graphic edition. </p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Content Edition</h3>
