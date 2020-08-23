@@ -1,7 +1,7 @@
 # site settings
-title: Vortice
+title: Vórtice
 subtitle: 
-email: mail@vorticepublishing.com
+email: info@vorticepublishing.com
 description: Publishing & Web Development
 baseurl: #"/vortice" # the subpath of your site, e.g. /blog
 url: https://vorticepublishing.com
