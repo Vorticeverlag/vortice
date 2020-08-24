@@ -27,7 +27,6 @@ nav-menu: true
 		<h3>Digital Publishing</h3>
 		<p>eBook Fixed layout pdf, 
 			ePub, Kindle 
-			
 			Online (Webpage, Blog or Social Media)
 			</p>
 	</div>
