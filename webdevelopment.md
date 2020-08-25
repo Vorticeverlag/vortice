@@ -23,7 +23,7 @@ nav-menu: true
 		<p>Webpage creation and design </p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Project Development</h3>
+		<h3>Web Development</h3>
 		<p> software architecture, project management, programming </p>
 	</div>
 	
