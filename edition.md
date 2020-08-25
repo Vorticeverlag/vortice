@@ -15,7 +15,7 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<h1 id="content">Manuscript and Book Design</h1> 
+<h1 id="content">Manuscript and Book</h1> 
 <!--<p>Edition of manuscripts and book design </p>-->
 <div class="row">
 	<div class="6u 12u$(small)">
