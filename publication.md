@@ -21,9 +21,7 @@ nav-menu: true
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Digital Publication</h3>
-		<p>eBook Fixed layout pdf, 
-			ePub, Kindle 
-			Online (Webpage, Blog or Social Media)
+		<p>Publication of books in fixed and floating layout and various formats, as well as Online publication of texts via websites, blogs or social media 
 			</p>
 	</div>
 	<div class="6u$ 12u$(small)">
