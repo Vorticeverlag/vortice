@@ -33,8 +33,7 @@ nav-menu: true
 			Artist Books
 			Special Editions
 			Hand-bound Books</p>
-		
-	</div>
+		</div>
 
 <hr class="major" />
 
