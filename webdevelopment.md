@@ -20,11 +20,11 @@ nav-menu: true
 <div class="row"> 
 	<div class="6u 12u$(small)">
 		<h3>Webpage Design</h3>
-		<p>Webpage creation and design</p>
+		<p>Webpage creation and design </p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Project Development</h3>
-		<p> full-stack development of wevbpages</p>
+		<p> software architecture, project management, programming </p>
 	</div>
 	
 <hr class="major" />
