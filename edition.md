@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Web
+title: Edition
 nav-menu: true
 ---
 
