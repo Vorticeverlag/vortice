@@ -20,7 +20,7 @@ nav-menu: true
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h1>Book Edition</h1>
-		<h2>Book design for physical and electronic media: Object design, choice of materials and production techniques, designed oriented to medium of publication, Formating, Book design, Cover design, Page design, Typeseting, illustrations and graphic edition. </h2>
+		<p><h2>Book design for physical and electronic media: Object design, choice of materials and production techniques, designed oriented to medium of publication, Formating, Book design, Cover design, Page design, Typeseting, illustrations and graphic edition. </h2></p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h1>Manuscript Edition</h1>
