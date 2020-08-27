@@ -16,15 +16,15 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content"></h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<p>We publish literary works of fiction and non-fiction in English, Spanish and Portuguese. We are interested in ancient philosophy, natural philosophy, science, religious texts and metaphysics. We are willing to collaborate in other publishing projects and in the publication of new authors or advise and assist them in the publishing process.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Digital</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<p>Traditional Offset Printing and Print-On-Demand. Special limited editions, artist books and hand-bound books.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Print</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<p>Electronic books in fixed and floating layout format for distribution in major channels on the internet. Creation and design of online magazine webpages, blogs, author and artist websites.</p>
 	</div>
 	
 </div>
