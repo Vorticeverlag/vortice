@@ -24,9 +24,9 @@ nav-menu: true
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h1>Manuscript</h1>
-		<h2> Manuscript Evaluation, 
+		<p> Manuscript Evaluation, 
 			Developmental Editing, 
-			Content editing. substantive editing, comprehensive editing or heavy editing. macro-to-micro editing. Consisting of both Structural and Line editing. the right structure for your manuscript. big-picture edit, and  Line editing. stylistic editing, focuses on making sure the writing is clear and tight, as well as improving the flow of your manuscript.</h2>
+			Content editing. substantive editing, comprehensive editing or heavy editing. macro-to-micro editing. Consisting of both Structural and Line editing. the right structure for your manuscript. big-picture edit, and  Line editing. stylistic editing, focuses on making sure the writing is clear and tight, as well as improving the flow of your manuscript.</p>
 
 
 <hr class="major" />
