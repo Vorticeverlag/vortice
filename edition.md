@@ -19,7 +19,7 @@ nav-menu: true
 <!--<p>Edition of manuscripts and book design </p>-->
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Editorial Design</h3>
+		<h3>Book design for physical and electronic media: Object design, choice of materials and production techniques, designed oriented to medium of publication, Formating, Book design, Cover design, Page design, Typeseting, illustrations and graphic edition.</h3>
 		<p>Book design for physical and electronic media: Object design, choice of materials and production techniques, designed oriented to medium of publication, Formating, Book design, Cover design, Page design, Typeseting, illustrations and graphic edition. </p>
 	</div>
 	<div class="6u$ 12u$(small)">
