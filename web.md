@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Web
+title: Online
 nav-menu: true
 ---
 
