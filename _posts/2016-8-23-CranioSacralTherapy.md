@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Lenaupraxis CranioSacral Therapy
-description: CranioSacral Therapy
+title: Lenaupraxis
+description: Lenaupraxis CranioSacral Therapy
 image: assets/images/lenaupraxis.jpg
 ---
 
