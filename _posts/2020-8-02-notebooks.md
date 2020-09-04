@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Journals
+title: Notebooks
 description: Nisl sed aliquam
 image: 
 ---
