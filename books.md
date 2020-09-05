@@ -15,8 +15,9 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<h2 id="content"></h2>
-<p>We publish literary works of fiction and non-fiction in English, Spanish and Portuguese. We are interested in ancient philosophy, natural philosophy, science, religious texts and metaphysics. We are willing to collaborate in other publishing projects and in the publication of new authors or advise and assist them in the publishing process.</p>
+<h1 id="content"></h1>
+<p></p>
+<p>We publish literary works of fiction and non-fiction in English, Spanish and Portuguese.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Digital</h3>
