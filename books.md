@@ -15,7 +15,7 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<h1 id="content"></h1>
+<h1 id="content">We publish literary works of fiction and non-fiction in English, Spanish and Portuguese</h1>
 <p></p>
 <p>We publish literary works of fiction and non-fiction in English, Spanish and Portuguese.</p>
 <div class="row">
