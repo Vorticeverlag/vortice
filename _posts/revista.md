@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Revue
-description: Vórtice Revue
+title: Revista
+description: Vórtice Revista
 image: 
 ---
 
