@@ -15,17 +15,18 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<h2 id="content">We publish literary works of fiction and non-fiction in English, Spanish and Portuguese</h2>
-<p>We publish literary works of fiction and non-fiction in English, Spanish and Portuguese.</p>
-<div class="row">
+<h1 id="content">Edition and publication of fiction and non-fiction in print and electronic media. Special limited editions and fine hand-bound books</h1>
+<p></p>
+<!-- <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Digital</h3>
-		<p>Traditional Offset Printing and Print-On-Demand. Special limited editions, artist books and hand-bound books.</p>
+		<h3></h3>
+		<p></p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Print</h3>
-		<p>Electronic books in fixed and floating layout format for distribution in major channels on the internet. Creation and design of online magazine webpages, blogs, author and artist websites.</p>
-	</div>
+		<h3></h3>
+		<p></p>
+	</div> 
+-->
 	
 </div>
 
