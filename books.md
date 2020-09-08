@@ -11,12 +11,12 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Publication in print and electronic media, special limited editions and fine handbound books</h1>
+			<h1>Books</h1>
 		</header>
 
 <!-- Content -->
-<!--<h1 id="content"></h1>
-<p></p>
+<h1 id="content">Publication in print and electronic media, special editions and fine handbound books</h1>
+<!--<p></p>
  <div class="row">
 	<div class="6u 12u$(small)">
 		<h3></h3>
