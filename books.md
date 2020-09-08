@@ -15,9 +15,9 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<h1 id="content">Edition and publication of fiction and non-fiction in print and electronic media. Special limited editions and fine hand-bound books</h1>
+<!--<h1 id="content"></h1>
 <p></p>
-<!-- <div class="row">
+ <div class="row">
 	<div class="6u 12u$(small)">
 		<h3></h3>
 		<p></p>
