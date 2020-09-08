@@ -15,7 +15,7 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<h1 id="content">Web development and online publications</h1>
+<h2 id="content">Web development and online publications</h2>
 <p></p>
 <!--<div class="row">
 	<div class="6u 12u$(small)">
