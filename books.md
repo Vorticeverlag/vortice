@@ -11,7 +11,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Books</h1>
+			<h1>Edition and publication of fiction and non-fiction in print and electronic media. Special limited editions and fine hand-bound books</h1>
 		</header>
 
 <!-- Content -->
