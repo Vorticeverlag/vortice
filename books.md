@@ -15,7 +15,7 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<h1 id="content">Publication in print and electronic media, special editions and fine handbound books</h1>
+<h1 id="content">Publication in print and electronic media, special editions and bookbinding</h1>
 <!--<p></p>
  <div class="row">
 	<div class="6u 12u$(small)">
