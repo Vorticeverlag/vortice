@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Hand-Bound Journals
-description: Vórtice Notebooks
+title: Vórtice Hand-Bound Books
+description: Vórtice Bookbinding
 image: 
 ---
 
