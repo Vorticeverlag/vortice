@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vórtice Hand-Bound Books
+title: Bookbinding
 description: Vórtice Bookbinding
 image: 
 ---
