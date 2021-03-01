@@ -5,7 +5,7 @@ email: info@vorticepublishing.com
 description: Publishing
 baseurl: #"/vortice" # the subpath of your site, e.g. /blog
 url: https://vorticepublishing.com
-author: Vórtice
+author: #Vórtice
 street_address: 
 city: Berlin 
 state: 
