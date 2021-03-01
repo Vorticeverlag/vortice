@@ -7,10 +7,10 @@ baseurl: #"/vortice" # the subpath of your site, e.g. /blog
 url: https://vorticepublishing.com
 author: Vórtice
 street_address: 
-city: Lisboa (PT) 
+city: Berlin 
 state: 
 zip_code:
-country: Berlin (DE)
+country: (DE)
 phone: +49 157 3326 2769
 
 # homepage tiles
